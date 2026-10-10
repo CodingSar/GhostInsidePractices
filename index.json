@@ -1,4 +1,11 @@
 {
   "version": 1,
-  "packs": []
+  "packs": [
+    {
+      "id": "domain/music-training",
+      "path": "domain/music-training.md",
+      "researched": "2026-10-10",
+      "tier": "deep"
+    }
+  ]
 }
