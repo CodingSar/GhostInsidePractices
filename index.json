@@ -1,4 +1,11 @@
 {
   "version": 1,
-  "packs": []
+  "packs": [
+    {
+      "id": "concern/security-web",
+      "path": "concern/security-web.md",
+      "researched": "2026-10-10",
+      "tier": "deep"
+    }
+  ]
 }
