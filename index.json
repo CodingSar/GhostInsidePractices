@@ -1,4 +1,11 @@
 {
   "version": 1,
-  "packs": []
+  "packs": [
+    {
+      "id": "lang/typescript",
+      "path": "lang/typescript.md",
+      "researched": "2026-10-10",
+      "tier": "standard"
+    }
+  ]
 }
